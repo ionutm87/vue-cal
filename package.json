@@ -33,7 +33,7 @@
     "@vue/eslint-config-standard": "^3.0.5",
     "babel-polyfill": "^6.26.0",
     "node-sass": "^4.11.0",
-    "pug": "^2.0.3",
+    "pug": "^3.0.1",
     "pug-plain-loader": "^1.0.0",
     "sass-loader": "^7.0.1",
     "simple-syntax-highlighter": "^1.0.6",
